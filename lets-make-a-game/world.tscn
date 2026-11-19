@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://b12rnxmkeuwwi"]
+
+[ext_resource type="PackedScene" uid="uid://cla33c2qqx78a" path="res://addons/JehenoThirdPersonController/Map/test_map_scene.tscn" id="1_f3sb7"]
+
+[node name="Node3D" type="Node3D" unique_id=519632283]
+
+[node name="TestMap" parent="." unique_id=1917090299 instance=ExtResource("1_f3sb7")]
